@@ -1,5 +1,6 @@
 # cmadmob
 Kotlin: 
+[https://github.com/peterkuch/mcadmobsample]
   ```
    MCAdmob.getInstances().onInit(context,callback,adview,mInterstitialAd_id,lived)
   ```
