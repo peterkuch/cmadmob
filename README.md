@@ -29,5 +29,5 @@ Kotlin:
             override fun onAdImpression() {
                 super.onAdImpression()
             }
-        }, adView, "ca-app-pub-3929444994565715/6028649406", false)
+        }, adView, "ca-app-pub-444444444444", false)
     }
