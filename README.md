@@ -1,6 +1,8 @@
 # cmadmob
 Kotlin: 
-
+  ```
+   MCAdmob.getInstances().onInit(context,callback,adview,mInterstitialAd_id,lived)
+  ```
   ```
   @Override protected void onCreate(Bundle savedInstanceState) {
         var adView = findViewById<AdView>(R.id.adView)
@@ -31,3 +33,6 @@ Kotlin:
             }
         }, adView, "ca-app-pub-444444444444", false)
     }
+
+    # How to use InterstitialAd
+    MCAdmob.getInstances().showInterstitialAd();
