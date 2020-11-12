@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T08:47:47.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="UpWKVZFA7WISaQ2dPaQq" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T08:50:17.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="yL8mv798__u0hqV_pOq8" version="13.9.7" type="github">
   <diagram id="TVGfRt7p-69sMcdeizTA" name="Page-1">
-    <mxGraphModel dx="906" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="770" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-1" value="SWIFT VIPER &lt;br style=&quot;font-size: 16px;&quot;&gt;Template Generator" style="text;html=1;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-1" value="SWIFT VIPER &lt;br style=&quot;font-size: 16px;&quot;&gt;Template Generator" style="text;html=1;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-2" value="1. Installation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-2" value="1. Installation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-3" value="- Copy the `VIPER Files.xctemplate` xctemplate&amp;nbsp;to `~/Library/Developer/Xcode/Templates/`" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-3" value="- Copy the `VIPER Files.xctemplate` xctemplate&amp;nbsp;to `~/Library/Developer/Xcode/Templates/`" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="166" width="790" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-7" value="2. Using the template" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-7" value="2. Using the template" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="221" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-8" value="- Start Xcode and create a new group for your VIPER module" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-8" value="- Start Xcode and create a new group for your VIPER module" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="241" width="790" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-9" value="- Create a new file (`File &amp;gt; New &amp;gt; File` or `⌘N`)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-9" value="- Create a new file (`File &amp;gt; New &amp;gt; File` or `⌘N`)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="269" width="790" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-10" value="- Choose in&amp;nbsp; Templates section select `VIPER Files` &amp;gt; Next" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-10" value="- Choose in&amp;nbsp; Templates section select `VIPER Files` &amp;gt; Next" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="298" width="790" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-11" value="- Type in the name of the module you want to create" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-11" value="- Type in the name of the module you want to create" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="329" width="790" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-12" value="- Type in the name of the module you want to create" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-12" value="- Type in the name of the module you want to create" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="360" width="790" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-13" value="3. Result created files" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-13" value="3. Result created files" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="414" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-14" value="4. File required" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-14" value="4. File required" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="459" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-15" value="- Created&amp;nbsp;&lt;b&gt;BaseUIViewController.swift &lt;/b&gt;type class&amp;nbsp;extend from &lt;b&gt;UIViewController&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-15" value="- Created&amp;nbsp;&lt;b&gt;BaseUIViewController.swift &lt;/b&gt;type class&amp;nbsp;extend from &lt;b&gt;UIViewController&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="479" width="790" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-16" value="- Created&amp;nbsp;&lt;b&gt;BaseView.swift &lt;/b&gt;type class" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-16" value="- Created&amp;nbsp;&lt;b&gt;BaseView&amp;nbsp;&lt;/b&gt;type P&lt;b&gt;rotocol&lt;/b&gt;&amp;nbsp;extend from &lt;b&gt;class&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="510" width="790" height="40" as="geometry" />
         </mxCell>
       </root>
