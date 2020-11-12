@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T08:39:50.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="OY5WhTMR2hx3DsnP0kSz" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T08:40:43.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="cYjo2q_i8Gw3z4uLxg7p" version="13.9.7" type="github">
   <diagram id="TVGfRt7p-69sMcdeizTA" name="Page-1">
     <mxGraphModel dx="906" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -16,8 +16,11 @@
         <mxCell id="Uw5UVaH-zzM0wg64r6FO-7" value="2. Using the template" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="221" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uw5UVaH-zzM0wg64r6FO-8" value="- Copy the `VIPER Files.xctemplate` xctemplate&amp;nbsp;to `~/Library/Developer/Xcode/Templates/`" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-8" value="- Start Xcode and create a new group for your VIPER module" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="40" y="241" width="790" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uw5UVaH-zzM0wg64r6FO-9" value="- Create a new file (`File &amp;gt; New &amp;gt; File` or `⌘N`)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="40" y="269" width="790" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
